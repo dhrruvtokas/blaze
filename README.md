@@ -23,7 +23,7 @@ The software can be installed by using the setup file provided in the repository
 
 # Technologies
 
-1. Visual Studio: Visual Studio canbe installed and used to maked any changes to the Blaze by using the project file.
+1. Visual Studio: Visual Studio can be installed and used to make any changes to the Blaze by using the project file.
 2. C#: This software was created using C#.
 
 # Contributors

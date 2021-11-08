@@ -15,7 +15,7 @@ This specific Github repository consists of a setup file and a project file, the
 
 # Overview
 
-Blaze is a standard webrowser which is constructed with the help of Visual Studio, the web browser is a minimalistic representation of the Edge Broser which was created by Microsoft.
+Blaze is a standard webrowser which is constructed with the help of Visual Studio, the web browser is a minimalistic representation of the Edge Browser which was created by Microsoft.
 
 # Project installation
 
